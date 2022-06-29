@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProductsAtStorage>
+  <Products>
+    <product>
+      <ProductID>DF395398</ProductID>
+      <ProductName>Кава Ground Coffee</ProductName>
+      <ProductWeightPack>0,5</ProductWeightPack>
+      <ProductPrice>310,64</ProductPrice>
+      <ManufacturerName>Dunkin Donuts</ManufacturerName>
+      <ArrivalDates>
+        <arrivalDate>
+          <ProductsStorageID>1</ProductsStorageID>
+          <ArrivalDate>18.12.2021 0:00:00</ArrivalDate>
+          <AmountOfProductPacks>100</AmountOfProductPacks>
+        </arrivalDate>
+        <arrivalDate>
+          <ProductsStorageID>1</ProductsStorageID>
+          <ArrivalDate>11.01.2022 0:00:00</ArrivalDate>
+          <AmountOfProductPacks>150</AmountOfProductPacks>
+        </arrivalDate>
+        <arrivalDate>
+          <ProductsStorageID>1</ProductsStorageID>
+          <ArrivalDate>16.02.2022 0:00:00</ArrivalDate>
+          <AmountOfProductPacks>200</AmountOfProductPacks>
+        </arrivalDate>
+      </ArrivalDates>
+    </product>
+    <product>
+      <ProductID>SW985323</ProductID>
+      <ProductName>Печиво Choco Cow</ProductName>
+      <ProductWeightPack>0,7</ProductWeightPack>
+      <ProductPrice>60,34</ProductPrice>
+      <ManufacturerName>Milka</ManufacturerName>
+      <ArrivalDates>
+        <arrivalDate>
+          <ProductsStorageID>1</ProductsStorageID>
+          <ArrivalDate>01.02.2022 0:00:00</ArrivalDate>
+          <AmountOfProductPacks>200</AmountOfProductPacks>
+        </arrivalDate>
+        <arrivalDate>
+          <ProductsStorageID>1</ProductsStorageID>
+          <ArrivalDate>22.03.2022 0:00:00</ArrivalDate>
+          <AmountOfProductPacks>300</AmountOfProductPacks>
+        </arrivalDate>
+      </ArrivalDates>
+    </product>
+    <product>
+      <ProductID>GT398762</ProductID>
+      <ProductName>Холодильник GR-187</ProductName>
+      <ProductWeightPack>61</ProductWeightPack>
+      <ProductPrice>22500,67</ProductPrice>
+      <ManufacturerName>Samsung</ManufacturerName>
+      <ArrivalDates>
+        <arrivalDate>
+          <ProductsStorageID>2</ProductsStorageID>
+          <ArrivalDate>04.02.2022 0:00:00</ArrivalDate>
+          <AmountOfProductPacks>50</AmountOfProductPacks>
+        </arrivalDate>
+        <arrivalDate>
+          <ProductsStorageID>2</ProductsStorageID>
+          <ArrivalDate>28.04.2022 0:00:00</ArrivalDate>
+          <AmountOfProductPacks>70</AmountOfProductPacks>
+        </arrivalDate>
+      </ArrivalDates>
+    </product>
+    <product>
+      <ProductID>PH761129</ProductID>
+      <ProductName>Духовка Induction Freestanding Range</ProductName>
+      <ProductWeightPack>114,67</ProductWeightPack>
+      <ProductPrice>91012,5</ProductPrice>
+      <ManufacturerName>Electrolux</ManufacturerName>
+      <ArrivalDates>
+        <arrivalDate>
+          <ProductsStorageID>2</ProductsStorageID>
+          <ArrivalDate>21.05.2022 0:00:00</ArrivalDate>
+          <AmountOfProductPacks>100</AmountOfProductPacks>
+        </arrivalDate>
+      </ArrivalDates>
+    </product>
+    <product>
+      <ProductID>YU892647</ProductID>
+      <ProductName>Стiл Solid Acacia Wood </ProductName>
+      <ProductWeightPack>43,3</ProductWeightPack>
+      <ProductPrice>16200</ProductPrice>
+      <ManufacturerName>Castlery</ManufacturerName>
+      <ArrivalDates>
+        <arrivalDate>
+          <ProductsStorageID>3</ProductsStorageID>
+          <ArrivalDate>02.03.2022 0:00:00</ArrivalDate>
+          <AmountOfProductPacks>50</AmountOfProductPacks>
+        </arrivalDate>
+        <arrivalDate>
+          <ProductsStorageID>3</ProductsStorageID>
+          <ArrivalDate>19.05.2022 0:00:00</ArrivalDate>
+          <AmountOfProductPacks>65</AmountOfProductPacks>
+        </arrivalDate>
+      </ArrivalDates>
+    </product>
+    <product>
+      <ProductID>KL064573</ProductID>
+      <ProductName>Диван Campbelltown</ProductName>
+      <ProductWeightPack>48,08</ProductWeightPack>
+      <ProductPrice>17010,4</ProductPrice>
+      <ManufacturerName>Wayfair</ManufacturerName>
+      <ArrivalDates>
+        <arrivalDate>
+          <ProductsStorageID>3</ProductsStorageID>
+          <ArrivalDate>17.04.2022 0:00:00</ArrivalDate>
+          <AmountOfProductPacks>20</AmountOfProductPacks>
+        </arrivalDate>
+        <arrivalDate>
+          <ProductsStorageID>3</ProductsStorageID>
+          <ArrivalDate>05.06.2022 0:00:00</ArrivalDate>
+          <AmountOfProductPacks>30</AmountOfProductPacks>
+        </arrivalDate>
+      </ArrivalDates>
+    </product>
+    <product>
+      <ProductID>MN456783</ProductID>
+      <ProductName>Печиво Savoiardi</ProductName>
+      <ProductWeightPack>1,2</ProductWeightPack>
+      <ProductPrice>110,64</ProductPrice>
+      <ManufacturerName>Ital.Tiram</ManufacturerName>
+      <ArrivalDates>
+        <arrivalDate>
+          <ProductsStorageID>4</ProductsStorageID>
+          <ArrivalDate>09.06.2022 0:00:00</ArrivalDate>
+          <AmountOfProductPacks>100</AmountOfProductPacks>
+        </arrivalDate>
+      </ArrivalDates>
+    </product>
+    <product>
+      <ProductID>IO983012</ProductID>
+      <ProductName>Буфетниця Solid Acacia Wood </ProductName>
+      <ProductWeightPack>38,4</ProductWeightPack>
+      <ProductPrice>20370</ProductPrice>
+      <ManufacturerName>Castlery</ManufacturerName>
+      <ArrivalDates>
+        <arrivalDate>
+          <ProductsStorageID>3</ProductsStorageID>
+          <ArrivalDate>12.03.2022 0:00:00</ArrivalDate>
+          <AmountOfProductPacks>25</AmountOfProductPacks>
+        </arrivalDate>
+      </ArrivalDates>
+    </product>
+    <product>
+      <ProductID>WE067548</ProductID>
+      <ProductName>Шоколад Wholenut Caramel </ProductName>
+      <ProductWeightPack>0,1</ProductWeightPack>
+      <ProductPrice>55,99</ProductPrice>
+      <ManufacturerName>Milka</ManufacturerName>
+      <ArrivalDates />
+    </product>
+    <product>
+      <ProductID>JK813254</ProductID>
+      <ProductName>Вафлi Choco Wafer </ProductName>
+      <ProductWeightPack>0,3</ProductWeightPack>
+      <ProductPrice>45,9</ProductPrice>
+      <ManufacturerName>Milka</ManufacturerName>
+      <ArrivalDates />
+    </product>
+  </Products>
+  <Storages>
+    <storage>
+      <StorageID>1</StorageID>
+      <CurrentWeight>575</CurrentWeight>
+      <MaxWeight>1000,88</MaxWeight>
+    </storage>
+    <storage>
+      <StorageID>2</StorageID>
+      <CurrentWeight>18787</CurrentWeight>
+      <MaxWeight>20000,54</MaxWeight>
+    </storage>
+    <storage>
+      <StorageID>3</StorageID>
+      <CurrentWeight>8343,5</CurrentWeight>
+      <MaxWeight>10000,21</MaxWeight>
+    </storage>
+    <storage>
+      <StorageID>4</StorageID>
+      <CurrentWeight>120</CurrentWeight>
+      <MaxWeight>15000,33</MaxWeight>
+    </storage>
+  </Storages>
+</ProductsAtStorage>

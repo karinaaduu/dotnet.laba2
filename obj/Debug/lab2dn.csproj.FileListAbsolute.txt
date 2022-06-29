@@ -1,0 +1,7 @@
+C:\Users\Карина\Desktop\кпі\dotnet\lab2dn\lab2dn\bin\Debug\lab2dn.exe.config
+C:\Users\Карина\Desktop\кпі\dotnet\lab2dn\lab2dn\bin\Debug\lab2dn.exe
+C:\Users\Карина\Desktop\кпі\dotnet\lab2dn\lab2dn\bin\Debug\lab2dn.pdb
+C:\Users\Карина\Desktop\кпі\dotnet\lab2dn\lab2dn\obj\Debug\lab2dn.csproj.AssemblyReference.cache
+C:\Users\Карина\Desktop\кпі\dotnet\lab2dn\lab2dn\obj\Debug\lab2dn.csproj.CoreCompileInputs.cache
+C:\Users\Карина\Desktop\кпі\dotnet\lab2dn\lab2dn\obj\Debug\lab2dn.exe
+C:\Users\Карина\Desktop\кпі\dotnet\lab2dn\lab2dn\obj\Debug\lab2dn.pdb

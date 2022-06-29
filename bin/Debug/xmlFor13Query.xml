@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Storages2>
+  <storage>
+    <StorageID>5</StorageID>
+    <CurrentWeight>0</CurrentWeight>
+    <MaxWeight>2400,88</MaxWeight>
+  </storage>
+  <storage>
+    <StorageID>6</StorageID>
+    <CurrentWeight>0</CurrentWeight>
+    <MaxWeight>30100,54</MaxWeight>
+  </storage>
+  <storage>
+    <StorageID>7</StorageID>
+    <CurrentWeight>0</CurrentWeight>
+    <MaxWeight>18934,4</MaxWeight>
+  </storage>
+  <storage>
+    <StorageID>8</StorageID>
+    <CurrentWeight>0</CurrentWeight>
+    <MaxWeight>100500,2</MaxWeight>
+  </storage>
+</Storages2>
